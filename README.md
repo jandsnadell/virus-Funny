@@ -4,6 +4,6 @@ This virus is **NOT A VIRUS**.
 # Instructions
 1. Disable Windows Defender or figure out a way for it to leave the program be, because Windows Defender hates the program.
 2. It will run from the EXE, so just use that.
-3. Use destroy.bat to delete the files.
+3. Use destroy.bat to delete the files. Run it again if it doesn't completely work the first time.
 4. After that, you can run it again by repeating 2-4.
    
