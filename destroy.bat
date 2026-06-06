@@ -21,4 +21,10 @@ if '%errorlevel%' NEQ '0' (
     cd /d "%~dp0"
 taskkill /f /im wscript.exe
 taskkill /f /im mshta.exe
+del /q "C:/bsod.hta"
+del /q "C:/password1.vbs"
+del /q "C:/chilledwindows.mp4"
+del /f /q "C:/Funny.exe"
+del /q "C:/Scary.exe"
+del /q "C:/delete.vbs"
 taskkill /f /im cmd.exe
